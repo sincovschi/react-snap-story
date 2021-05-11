@@ -11,6 +11,17 @@
     "typescript": "^4.2.4",
     "web-vitals": "^1.1.2"
   },
+  "devDependencies": {
+    "@storybook/addon-actions": "^6.2.9",
+    "@storybook/addon-essentials": "^6.2.9",
+    "@storybook/addon-links": "^6.2.9",
+    "@storybook/node-logger": "^6.2.9",
+    "@storybook/preset-create-react-app": "^3.1.7",
+    "@storybook/react": "^6.2.9",
+    "@testing-library/react": "^11.2.6",
+    "prettier-standard": "^16.4.1",
+    "standard": "^16.0.3"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -46,16 +57,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@storybook/addon-actions": "^6.2.9",
-    "@storybook/addon-essentials": "^6.2.9",
-    "@storybook/addon-links": "^6.2.9",
-    "@storybook/node-logger": "^6.2.9",
-    "@storybook/preset-create-react-app": "^3.1.7",
-    "@storybook/react": "^6.2.9",
-    "@testing-library/react": "^11.2.6",
-    "prettier-standard": "^16.4.1",
-    "standard": "^16.0.3"
   }
 }

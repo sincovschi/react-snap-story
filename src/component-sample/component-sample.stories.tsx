@@ -5,6 +5,6 @@ export default {
   title: 'Sample component'
 }
 
-export function Sample () {
+export function ComponentSampleStory () {
   return <ComponentSample />
 }

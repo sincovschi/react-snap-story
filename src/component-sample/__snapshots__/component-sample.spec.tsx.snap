@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ComponentSample should render successfully 1`] = `
+<body>
+  <div>
+    <div>
+      <h1>
+        Welcome to common-components!
+      </h1>
+    </div>
+  </div>
+</body>
+`;
